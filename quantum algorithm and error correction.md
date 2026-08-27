@@ -135,3 +135,77 @@ finding the minima of basin
 Hamming distance 
 
 quadratic form
+
+general number field sieve
+
+DSA and ECDSA digital signature schemes
+
+semiprimes
+
+elliptic curve factorization method
+
+order finding
+
+Abelian hidden subgroup problem
+
+quantum Fourier transform
+
+Diophantine problems
+
+membership problem for matrix groups
+
+semigroups
+
+discrete logarithm problem 
+
+superpolynomial quantum speedup
+
+Buchman-Williams cryptosystem
+
+Dedekind domain
+
+lattice filtering
+
+nonlinear DE
+
+graph property welded tree
+
+Pell’s equation 
+
+knot invariants, partition functions
+
+collision finding, graph properties
+
+class group
+
+Legendre symbol
+
+hidden shifts
+
+injective function
+
+Kuperberg's sieve algorithm
+
+unstructured search
+
+pattern matching
+
+quantum sieve algorithm
+
+Kuperberg
+
+noisy *d*-dimensional version of hidden shift
+
+Oracular Algorithms
+
+deterministic quantum algorithm
+
+forbidden subgraph
+
+Aanderaa-Karp-Rosenberg conjecture
+
+3-uniform hypergraph
+
+Collision Finding
+
+*k*-fold collisions exist is called *k*-distinctness
