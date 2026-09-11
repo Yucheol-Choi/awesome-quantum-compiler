@@ -283,6 +283,15 @@ inspired me to decide to pursue research on PQC as well
 + [An Open-Source Hybrid Quantum Operating System](https://arxiv.org/abs/2308.06313) Stavros Efthymiou et al. [[Github]](https://github.com/qiboteam/qibolab) <img src="https://img.shields.io/badge/Quantum-2025-green.svg">
 + [Quantum Operating Systems](https://people.eecs.berkeley.edu/~henrycg/files/academic/papers/hotos17quantum.pdf) Henry Corrigan-Gibbs et al <img src="https://img.shields.io/badge/HotOS-2017-green.svg">
 
+<h4 id="world-class scholar">World-class researcher</h4>
+
++ [Mikhail D. Lukin](https://scholar.google.com/citations?user=ppJpl64AAAAJ&hl=en) [Ronald L. Walsworth](https://scholar.google.com/citations?user=O-qbA40AAAAJ&hl=en), [Christian L. Degen](https://scholar.google.com/citations?user=3VrHkwoAAAAJ&hl=en), [Paola Cappellaro](https://scholar.google.com/citations?user=yM9f9mAAAAAJ&hl=en) + <img src="https://img.shields.io/badge/Sensing-NV_based-green.svg">
++ [Philippe Bouyer](https://scholar.google.com/citations?user=JK184r8AAAAJ&hl=fr), [Arnaud Landragin](https://scholar.google.com/citations?user=GUR7_KQAAAAJ&hl=fr), [Ernst M. Rasel](https://scholar.google.com/citations?user=rRd6aqAAAAAJ&hl=de) <img src="https://img.shields.io/badge/Sensing-Atomique_based-green.svg"> 
++ [Dmitry Budker](https://scholar.google.com/citations?user=nXMpZ5sAAAAJ&hl=en) <img src="https://img.shields.io/badge/Sensing-Optical_based-green.svg">
++ [Charles H. Bennett](https://scholar.google.com/citations?user=mkjGmJEAAAAJ&hl=en), [Artur Ekert](https://scholar.google.com/citations?user=V7mEUroAAAAJ&hl=en) <img src="https://img.shields.io/badge/Communication-QKD-green.svg">
++ [Anton Zeilinger](https://scholar.google.com/citations?user=cuqIY0oAAAAJ&hl=en), [Jian-Wei Pan](https://scholar.google.com/citations?user=RERrJ6UAAAAJ&hl=zh-CN), [Nicolas Gisin](https://scholar.google.com/citations?user=SwLIrjAAAAAJ&hl=fr) <img src="https://img.shields.io/badge/Communication-Teleportation-green.svg">
++ [Stephanie Wehner](https://scholar.google.com/citations?user=PlDS_zYAAAAJ&hl=en), [Stefano Pirandola](https://scholar.google.co.uk/citations?user=bV8llfkAAAAJ&hl=en), [Norbert Lütkenhaus](https://scholar.google.com/citations?user=XCv0K6UAAAAJ&hl=en) <img src="https://img.shields.io/badge/Communication-Internet-green.svg"> 
+
 <h3 id="conference-deadline">Top Conference Deadline</h3>
 
 + January - [ICCAD](https://www.iccad-conf.com/) [CCS](https://www.sigsac.org/ccs/CCS2026/) 
