@@ -2,6 +2,13 @@
 
 <img src="https://awesome.re/badge-flat.svg" alt="Awesome" style="vertical-align: bottom;"> [![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-2028-lightgrey.svg)](https://www.ibm.com/roadmaps/quantum/2028/) 
 
+[![Quantinuum](https://img.shields.io/badge/Quantinuum-Lambeq-grey.svg)](https://www.quantinuum.com/glossary-item/lambeq)  [![Quantinuum](https://img.shields.io/badge/Quantinuum-RIKEN-grey.svg)](https://www.quantinuum.com/press-releases/riken-scales-quantum-supercomputing-in-japan-with-quantinuum-system-upgrade#) 
+
+
+> Due to personal circumstances, updates may be delayed or take longer than expected. Thank you for your understanding.
+
+</br>
+
 By studying [Quantum Compilation](https://arxiv.org/abs/2112.00187) written by Marco Maronese (2021) and [Quantum Compilation Process](https://link.springer.com/chapter/10.1007/978-3-031-90200-0_9) by Javier Cardama et al. (2025), as well as the classic [Nature Journal](https://www.nature.com/articles/nature23459) by Frederic T. Chong et al. (2017), we can get a clear sense of how to enter this field.
 
 
